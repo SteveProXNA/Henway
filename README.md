@@ -28,6 +28,11 @@ Special thanks to the Xbox LIVE Indie Games community + XBLIG forums
 ###### COMPANY BIO
 StevePro Studios (formerly known as StevePro Solutions) is an independent game developer founded by Steven Boland "SteveProXNA" (Jan-2007) as a "one man team of one" and is currently based in Dublin, Ireland.
 
+###### BLOG
+For more infomation please check out the following blog posts:
+- Friday, December 25th 2009 "First Game Publication" [http://bit.ly/1TwO2uL]
+- Tuesday, September 1st 2009 "First Game Completion" [http://bit.ly/1S4iiYw]
+
 ###### CONTACT
 - Blog:		http://steveproxna.blogspot.com
 - Email:	steven_boland@hotmail.com
