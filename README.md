@@ -9,15 +9,15 @@ Henway is a simple Frogger clone available on Windows PC, Xbox 360, and the Zune
 <br />
 The goal is to cross the road without being killed; hence this game is based on real life.
 
-###### TOOLS
-- C#/.NET Framework 3.5
-- XNA Game Studio 3.1
-- Visual Studio 2008
-
 ###### PLATFORMS
 - Windows PC
 - Xbox 360
 - Zune
+- 
+###### TOOLS
+- C#/.NET Framework 3.5
+- XNA Game Studio 3.1
+- Visual Studio 2008
 
 ###### SOURCE CODE
 http://github.com/SteveProXNA/Henway
