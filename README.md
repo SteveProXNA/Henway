@@ -36,4 +36,4 @@ For more infomation please check out the following blog posts:
 ###### CONTACT
 - Blog:		http://steveproxna.blogspot.com
 - Email:	steven_boland@hotmail.com
-- Twitter:	@SteveProXNA
+- Twitter:	<a href="http://twitter.com/SteveProXNA">@SteveProXNA</a>
